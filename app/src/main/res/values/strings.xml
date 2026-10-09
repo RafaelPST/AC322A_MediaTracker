@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Media Tracker</string>
+    <string name="synopsis_card_title">Sinopse</string>
+    <string name="of">%1$d de %2$d</string>
+    <string name="book_cover">Imagem da capa do livro</string>
+    <string name="next_page_button">Próxima página</string>
+    <string name="previous_page_button">Página anterior</string>
+    <string name="details">Detalhes</string>
+    <string name="author">Autor</string>
+    <string name="first_published">Primeira publicação</string>
+    <string name="genres">Gêneros</string>
+    <string name="publisher">Editora</string>
+    <string name="reading_progress">Progresso de leitura</string>
+    <string name="home_list_item_page_count">%1$dp</string>
+    <string name="book">Livro</string>
+    <string name="book_cover_image">Capa do livro</string>
+    <string name="book_not_found">Livro não encontrado</string>
+    <string name="not_informed">Não informado</string>
+    <string name="pages_count">%1$d páginas</string>
+    <string name="percent">%1$d%%</string>
+</resources>
